@@ -2,6 +2,8 @@
 
 namespace app;
 
+use PDO;
+
 class Connection
 {
 
